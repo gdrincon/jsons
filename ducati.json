@@ -1,0 +1,161 @@
+[
+	{ 
+		"id":1,
+		"marca":"Ducati", 
+		"modelo":"Ducati 950 Hypermotard", 
+		"any":2017,
+		"foto":"https://www.cuidamostumoto.com/sites/default/files/ducati-hypermotard-950-2019.jpg",
+		"precio":"16.890€"
+		"descripcion": "El aroma de las sábanas me resulta familiar. Cada movimiento que doy, perezoso, hace que el olor fluya y se mezcle con el aire. Intuyo trazas de bergamota, jazmín y limón. La cama es grande y aunque la persiana está cerrada puedo ver perfectamente, gracias a la luz que sale por el borde de la cabecera. Es una luz tenue, azul. Presiono el interruptor que está a mi derecha, la persiana sube en silencio descubriendo una terraza que parece lo suficientemente grande como para montar un mini golf. Afuera el día está despejado."
+    },
+    { 
+		"id":2,
+		"marca":"Ducati", 
+		"modelo":"Ducati Monster 797 Plus ", 
+		"any":2019,
+		"foto":"https://www.cuidamostumoto.com/sites/default/files/ducati_monster-797_2019.jpg",
+		"precio":"9.090€"
+	},
+    { 
+		"id":3,
+		"marca":"Ducati", 
+		"modelo":"Ducati Scrambler 1100 ", 
+		"any":2018,
+		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-scrambler-1100.jpg",
+		"precio":"13.190€"
+	},
+    { 
+		"id":4,
+		"marca":"Ducati", 
+		"modelo":"Ducati Panigale V4 ", 
+		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-panigale-v4-2018-2.jpg",
+		"precio":"17.890€"
+	},
+    { 
+		"id":5,
+		"marca":"Ducati", 
+		"modelo":"Ducati Multistrada 1260 ", 
+		"any":2018,
+		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-multistrada-1260-2018.jpg",
+		"precio":"17.890€"
+	},
+    { 
+		"id":6,
+		"marca":"Ducati", 
+		"modelo":"Ducati Scrambler Icon ", 
+		"any":2016,
+		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-scrambler-icon.jpg",
+		"precio":"8.790€"
+	},
+    { 
+		"id":7,
+		"marca":"Ducati", 
+		"modelo":"Ducati Scrambler Classic ", 
+		"any":2016,
+		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati_scrambler_classic_2016.jpg",
+		"precio":"10.350€"
+	},
+    { 
+		"id":8,
+		"marca":"Ducati", 
+		"modelo":"Ducati Panigale V4 25 Aniversario 916", 
+		"any":2020,
+		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-panigale-v4-25-aniversario-916.jpg",
+		"precio":"48.000€"
+	},
+    { 
+		"id":9,
+		"marca":"Ducati", 
+		"modelo":"Ducati Panigale V4 S ", 
+		"any":2020,
+		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-panigale-v4-s-2020.jpg",
+		"precio":"31.590€"
+	},
+    { 
+		"id":10,
+		"marca":"Ducati", 
+		"modelo":"DUCATI MONSTER 1200 ", 
+		"any":2014 ,
+		"foto":"https://a.mcdn.es/mnet_ft//DUCATI/MONSTER_1200/30135MG.jpg/660x/",
+		"precio":"13.650 €"
+	},
+    { 
+		"id":11,
+		"marca":"Ducati", 
+		"modelo":"MONSTER 1200 ", 
+		"any":2018,
+		"foto":"https://a.mcdn.es/mnet_ft//DUCATI/MONSTER_1200/6164/30075MG.jpg/660x/",
+		"precio":"20.090 €"
+	},
+    { 
+		"id":12,
+		"marca":"Ducati", 
+		"modelo":"Ducati Monster 1200 S Black on Black", 
+		"any":2020,
+		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-monster-1200-s-black-on-black-4.jpg",
+		"precio":"18.090€"
+	},
+    { 
+		"id":13,
+		"marca":"Ducati", 
+		"modelo":"Ducati Scrambler Café Racer ", 
+		"any":2019,
+		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-scrambler-cafe-racer-2019.jpg",
+		"precio":"11.690€"
+	},
+    { 
+		"id":14,
+		"marca":"Ducati", 
+		"modelo":"Ducati Scrambler Desert Sled", 
+		"any":2019,
+		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-scrambler-desert-sled-2019-2.jpg",
+		"precio":"11.790€"
+	},
+    { 
+		"id":15,
+		"marca":"Ducati", 
+		"modelo":"Ducati Multistrada 1260 ", 
+		"any":2018,
+		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-multistrada-1260-2018.jpg",
+		"precio":"17.890€"
+	},
+    { 
+		"id":16,
+		"marca":"Ducati", 
+		"modelo":"Ducati Hypermotard ", 
+		"any":2018,
+		"foto":"https://a.mcdn.es/mnet_ft//DUCATI/HYPERMOTARD/6736/34138MG.jpg/660x/",
+		"precio":"13.690 €"
+	},
+    { 
+		"id":17,
+		"marca":"Ducati", 
+		"modelo":"Ducati 950 Hypermotard 2019", 
+		"any":2019,
+		"foto":"https://a.mcdn.es/mnet_ft//DUCATI/HYPERMOTARD/6736/34138MG.jpg/660x/",
+		"precio":"16.890 €"
+	},
+    { 
+		"id":18,
+		"marca":"Ducati", 
+		"modelo":"Diavel ", 
+		"any":2019,
+		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-diavel-1260-2019.jpg",
+		"precio":"16.890 €"
+	},
+    { 
+		"id":19,
+		"marca":"Ducati", 
+		"modelo":"1260 Diavel S  ", 
+		"any":2020,
+		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-diavel-1260-s-2019.jpg",
+		"precio":"23.590 €"
+	},{ 
+		"id":20,
+		"marca":"Ducati", 
+		"modelo":"Scrambler Icon 2019  ", 
+		"any":2020,
+		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-scrambler-icon-2019.jpg",
+		"precio":"9.190€"
+	}
+]

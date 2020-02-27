@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "marca": "Yamaha",
+      "modelo": "X-Max 125 ABS",
+      "any": 2019,
+      "foto": "https://api.motorpress-iberica.es/motociclismo-fichas/api/v1/images/modelo/59d1fa56048e5cf776ad181e.jpg",
+      "precio": "4.749 €"
+    },
+    {
+      "id": 2,
+      "marca": "Yamaha",
+      "modelo": "NMax 125",
+      "any": 2019,
+      "foto": "https://api.motorpress-iberica.es/motociclismo-fichas/api/v1/images/modelo/5559b080cb00987779a78eaa.jpg",
+      "precio": "3.099 €"
+    },
+    {
+      "id": 3,
+      "marca": "Yamaha",
+      "modelo": "X-Max 400",
+      "any": 2019,
+      "foto": "https://api.motorpress-iberica.es/motociclismo-fichas/api/v1/images/modelo/5559b080cb00987779a78eaa.jpg",
+      "precio": "6.699 €"
+    },
+    {
+      "id": 4,
+      "marca": "Yamaha",
+      "modelo": "MT-125",
+      "any": 2019,
+      "foto": "https://api.motorpress-iberica.es/motociclismo-fichas/api/v1/images/modelo/54e5a5c885bd0aca0e0021e7.jpg",
+      "precio": "4.849 €"
+    },
+    {
+      "id": 5,
+      "marca": "Yamaha",
+      "modelo": "YZF 125 R ABS",
+      "any": 2019,
+      "foto": "https://api.motorpress-iberica.es/motociclismo-fichas/api/v1/images/modelo/5874a873707ba4a76fa53c95.jpg",
+      "precio": "5.249 €"
+    },
+    {
+      "id": 6,
+      "marca": "Yamaha",
+      "modelo": "X-MAX 300",
+      "any": 2018,
+      "foto": "https://api.motorpress-iberica.es/motociclismo-fichas/api/v1/images/modelo/5806306bb95209241c81696f.jpg",
+      "precio": "5.799 €"
+    },
+    {
+      "id": 7,
+      "marca": "Yamaha",
+      "modelo": "XP 530 T-Max ABS",
+      "any": 2016,
+      "foto": "https://api.motorpress-iberica.es/motociclismo-fichas/api/v1/images/modelo/5874a7d0707ba4a76fa53c93.jpg",
+      "precio": "12.299 €"
+    }
+  ]
