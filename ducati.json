@@ -14,7 +14,8 @@
 		"modelo":"Ducati Monster 797 Plus ", 
 		"any":2019,
 		"foto":"https://www.cuidamostumoto.com/sites/default/files/ducati_monster-797_2019.jpg",
-		"precio":"9.090€"
+		"precio":"9.090€",
+		"descripcion": "El sol inunda la habitación, en la pared que tengo al frente cuelga una fotografía tamaño real de una mujer posando desnuda, en blanco y negro y con el fondo difuminado. Ella mira directo a la cámara, no es lo que se podría llamar una mujer hermosa, pero posee un atractivo extravagante, místico."  
 	},
     { 
 		"id":3,
@@ -22,14 +23,16 @@
 		"modelo":"Ducati Scrambler 1100 ", 
 		"any":2018,
 		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-scrambler-1100.jpg",
-		"precio":"13.190€"
+		"precio":"13.190€",
+		"descripcion": "Al incorporarme, la alfombra me produce un cosquilleo agradable en la planta del pie. Por las vistas que se aprecian supongo que estoy en un ático al oeste de la ciudad. Noto un dolor intenso en la zona occipital, como si una apisonadora me estuviese asfaltando el cerebro: cada camino, cada pliegue."
 	},
     { 
 		"id":4,
 		"marca":"Ducati", 
 		"modelo":"Ducati Panigale V4 ", 
 		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-panigale-v4-2018-2.jpg",
-		"precio":"17.890€"
+		"precio":"17.890€",
+		"descripcion": "La masa encefálica caliente y densa bulle dentro, haciéndome sentir, por un momento, que los globos oculares van a estallar y a saltar de sus órbitas para liberar la presión. Creo que necesito un trago."
 	},
     { 
 		"id":5,
@@ -37,7 +40,8 @@
 		"modelo":"Ducati Multistrada 1260 ", 
 		"any":2018,
 		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-multistrada-1260-2018.jpg",
-		"precio":"17.890€"
+		"precio":"17.890€",
+		"descripcion":"El salón es grande y tiene salida a la terraza. Fotografías en gran formato cuelgan de la pared. Una barra en forma de U divide el salón del comedor. Es una barra de bar muy completa, nevera, máquina de hielo, lavaplatos, cava de vinos. La estantería, hecha en madera de iroko, exhibe una hermosa colección de licores, me decido por la botella de Grey Goose y sirvo un vaso hasta la mitad, añado hielo y piel de lima."
 	},
     { 
 		"id":6,
@@ -45,7 +49,8 @@
 		"modelo":"Ducati Scrambler Icon ", 
 		"any":2016,
 		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-scrambler-icon.jpg",
-		"precio":"8.790€"
+		"precio":"8.790€",
+		"descripcion": "A medida que el líquido pasa por la garganta, los poros se abren y el dolor de cabeza mengua significativamente. En ese momento me doy cuenta que tengo una erección magnífica. Las venas laten, siento las pulsaciones a través del pantalón."
 	},
     { 
 		"id":7,
@@ -53,7 +58,8 @@
 		"modelo":"Ducati Scrambler Classic ", 
 		"any":2016,
 		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati_scrambler_classic_2016.jpg",
-		"precio":"10.350€"
+		"precio":"10.350€",
+		"descripcion": "Miccionar con el pene erecto es difícil, debo relajarme, espero unos minutos hasta que empieza a salir un chorro, al principio con poca fuerza y entrecortado. Me lavo la cara, en el tocador hay un frasco de agua de rosas que pulverizo sobre el rostro pálido y ojeroso."
 	},
     { 
 		"id":8,
@@ -61,7 +67,9 @@
 		"modelo":"Ducati Panigale V4 25 Aniversario 916", 
 		"any":2020,
 		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-panigale-v4-25-aniversario-916.jpg",
-		"precio":"48.000€"
+		"precio":"48.000€",
+		"descripcion": "Con los ojos entreabiertos, para no quitar con la mano el exceso de la esencia de rosas y que así mis poros absorban la mayor cantidad posible, deslizo la mampara de cristal templado con motivos serigrafiados semejantes a la hoja de arce."
+
 	},
     { 
 		"id":9,
@@ -69,7 +77,8 @@
 		"modelo":"Ducati Panigale V4 S ", 
 		"any":2020,
 		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-panigale-v4-s-2020.jpg",
-		"precio":"31.590€"
+		"precio":"31.590€",
+		"descripcion": "Tanteo el grifo y lo giro, el sonido del agua cayendo me relaja. Dejo la ropa bien doblada sobre una cesta de teca y entro a la ducha. El vapor me acaricia la cara, suave y cálido."
 	},
     { 
 		"id":10,
@@ -77,7 +86,8 @@
 		"modelo":"DUCATI MONSTER 1200 ", 
 		"any":2014 ,
 		"foto":"https://a.mcdn.es/mnet_ft//DUCATI/MONSTER_1200/30135MG.jpg/660x/",
-		"precio":"13.650 €"
+		"precio":"13.650 €",
+		"descripcion": "El cabello de la chica que yace boca abajo en la ducha bloquea el desagüe, ocasionando que el agua se estanque, lo cual resulta terriblemente desagradable."
 	},
     { 
 		"id":11,
@@ -85,7 +95,8 @@
 		"modelo":"MONSTER 1200 ", 
 		"any":2018,
 		"foto":"https://a.mcdn.es/mnet_ft//DUCATI/MONSTER_1200/6164/30075MG.jpg/660x/",
-		"precio":"20.090 €"
+		"precio":"20.090 €",
+		"descripcion": "Con el pie, aparto lo que puedo. Cuando el agua vuelve a fluir, me pongo un poco de gel corporal y lo reparto hasta conseguir una espuma homogénea con un delicioso aroma a leche de almendra y aloe vera."
 	},
     { 
 		"id":12,
@@ -93,7 +104,8 @@
 		"modelo":"Ducati Monster 1200 S Black on Black", 
 		"any":2020,
 		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-monster-1200-s-black-on-black-4.jpg",
-		"precio":"18.090€"
+		"precio":"18.090€",
+		"descripcion": "Debe rondar los veinticinco, la cabellera azabache abierta como la cola de un pavo real serpentea en los surcos que marca el agua al correr hasta perderse en un camino sin retorno por las cañerías de la ciudad"
 	},
     { 
 		"id":13,
@@ -101,7 +113,8 @@
 		"modelo":"Ducati Scrambler Café Racer ", 
 		"any":2019,
 		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-scrambler-cafe-racer-2019.jpg",
-		"precio":"11.690€"
+		"precio":"11.690€",
+		"descripcion": "sobre su piel morena explotan las gotas de agua que caen, como una lluvia de estrellas en el desierto frío."
 	},
     { 
 		"id":14,
@@ -109,7 +122,8 @@
 		"modelo":"Ducati Scrambler Desert Sled", 
 		"any":2019,
 		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-scrambler-desert-sled-2019-2.jpg",
-		"precio":"11.790€"
+		"precio":"11.790€",
+		"descripcion": "Con la toalla envuelta hasta la cintura y los pies todavía mojados, tomo otra copa para relajarme. Me quedo contemplando las nubes que pasan como en una película antigua, ligeramente aceleradas."
 	},
     { 
 		"id":15,
@@ -117,7 +131,8 @@
 		"modelo":"Ducati Multistrada 1260 ", 
 		"any":2018,
 		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-multistrada-1260-2018.jpg",
-		"precio":"17.890€"
+		"precio":"17.890€",
+		"descripcion": "Las imágenes vienen a mí en forma de rostros: hablan, ríen, fuman, besan, maldicen, lloran. Rostros sin nombre, aunque resultan cercanos, familiares. Todos tenemos un pasado, supongo."
 	},
     { 
 		"id":16,
@@ -125,7 +140,8 @@
 		"modelo":"Ducati Hypermotard ", 
 		"any":2018,
 		"foto":"https://a.mcdn.es/mnet_ft//DUCATI/HYPERMOTARD/6736/34138MG.jpg/660x/",
-		"precio":"13.690 €"
+		"precio":"13.690 €",
+		"descripcion": "El timbre del teléfono me trae de vuelta, sigo en el mismo lugar tan habitual y desconocido a la vez. Levanto el auricular y lo acerco al oído, - Un gesto en apariencia sencillo; pero que en este momento se me hace difícil. - al otro lado de la línea hay interferencia. Permanezco en silencio."
 	},
     { 
 		"id":17,
@@ -133,7 +149,8 @@
 		"modelo":"Ducati 950 Hypermotard 2019", 
 		"any":2019,
 		"foto":"https://a.mcdn.es/mnet_ft//DUCATI/HYPERMOTARD/6736/34138MG.jpg/660x/",
-		"precio":"16.890 €"
+		"precio":"16.890 €",
+		"descripcion": "Al otro lado de la línea, más allá del ruido como de arena seca parece haber una voz. Continúo sin decir nada, los gritos al otro lado se hacen evidentes, aunque son ininteligibles."
 	},
     { 
 		"id":18,
@@ -141,7 +158,8 @@
 		"modelo":"Diavel ", 
 		"any":2019,
 		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-diavel-1260-2019.jpg",
-		"precio":"16.890 €"
+		"precio":"16.890 €",
+		"descripcion": "Es una resaca de voces que emerge de las profundidades del teléfono en forma de canto de ballena o de sirena o de delfín. No lo sé. Con la mano libre alcanzo la nota que está sobre la mesa: viernes 12, cena. 9 confirmados."
 	},
     { 
 		"id":19,
@@ -149,13 +167,15 @@
 		"modelo":"1260 Diavel S  ", 
 		"any":2020,
 		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-diavel-1260-s-2019.jpg",
-		"precio":"23.590 €"
+		"precio":"23.590 €",
+		"descripcion": "La caligrafía es magnífica, ligeramente inclinada. Las líneas exteriores, redondas y achatadas en la parte superior, perfectamente alineadas unas respecto a otras, se me antojan deliciosas."
 	},{ 
 		"id":20,
 		"marca":"Ducati", 
 		"modelo":"Scrambler Icon 2019  ", 
 		"any":2020,
 		"foto":"http://motos-b60.kxcdn.com/sites/default/files/ducati-scrambler-icon-2019.jpg",
-		"precio":"9.190€"
+		"precio":"9.190€",
+		"descripcion": "De un tirón, arranco la nota y en la siguiente hoja copio el texto. No cabe duda que esta nota fue escrita por alguien con una letra tan cautivadora como la mía."
 	}
 ]
